@@ -8,3 +8,4 @@
 /src_py/opcut/json_schema_repo.json
 /src_py/opcut/ui
 __pycache__
+csv/*
