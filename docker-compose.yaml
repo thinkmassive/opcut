@@ -1,0 +1,9 @@
+---
+version: '2.1'
+
+services:
+  opcut:
+    build: .
+    command: ["/usr/local/bin/opcut", "server"]
+    ports:
+      - "8080:8080"
